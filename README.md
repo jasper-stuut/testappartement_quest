@@ -1,0 +1,10 @@
+sudo nano /etc/systemd/system/flaskapp.service
+sudo nano /etc/systemd/system/dht_logger.service
+sudo nano /etc/systemd/system/sensorbuitenmuur.service
+sudo nano /etc/systemd/system/sensorhoek.service
+sudo nano /etc/systemd/system/sensorvloer.service
+sudo nano /etc/systemd/system/sensorraam.service
+sudo nano /etc/systemd/system/sensorruimte.service
+sudo nano /etc/systemd/system/checkalg.service
+sudo nano /etc/systemd/system/fan.service
+sudo nano /etc/systemd/system/uart_received.service
